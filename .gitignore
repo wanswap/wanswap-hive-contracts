@@ -1,0 +1,4 @@
+node_modules/
+deploy*/
+abi/
+truffle-config.js
